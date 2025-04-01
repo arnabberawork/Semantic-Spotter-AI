@@ -7,6 +7,7 @@
 - [Approach](#approach)
 - [Features](#features)
 - [System Layers](#system-layers)
+- [System Architecture](#system-architecture)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Acknowledgements](#acknowledgements)
@@ -99,6 +100,11 @@ Applied customized chunking strategies based on document structure.
  - we can create a chain that takes user input, formats it with a PromptTemplate, and then passes the formatted response to an LLM.
 - Leveraged the rlm/rag-promp from LangChain Hub.Constructed a custom RAG chain for better integration with Chroma DB and cosine similarity,retreivalQA 
 - [reference](https://python.langchain.com/docs/versions/migrating_chains/retrieval_qa/)
+
+## System Architecture
+
+![](./images/arch1.png)
+![](./images/arch2.png)
 
 ## Prerequisites
 
