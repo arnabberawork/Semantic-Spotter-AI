@@ -12,7 +12,7 @@ answering questions from a bunch of policy documents.
 
 ## 3. Document
 
-1. The policy documents can be found [here](https://github.com/arnabberawork/Semantic-Spotter-AI/tree/main/Insurance%20Policy%20Documents)
+1. The policy documents can be found [here](https://github.com/arnabberawork/Semantic-Spotter-AI/tree/main/data)
 
 
 ## 4. Approach 
